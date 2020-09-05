@@ -1,0 +1,9 @@
+.Title {
+  display: flex;
+  justify-content: center;
+  font-size: 8rem;
+  font-family: "Bigelow Rules";
+  font-style: normal;
+  font-weight: 400;
+  color: red;
+}
